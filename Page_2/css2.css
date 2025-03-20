@@ -1,0 +1,68 @@
+.Title {  
+  font-size: 65px;
+  font-weight: bold;
+  text-align: center;
+  color: rgb(0, 0, 0); 
+  border-width: 6px;
+  border-style: solid;
+  border: none;
+  padding: 10px; 
+  border-radius: 8px;
+  margin: 0;
+}
+
+.dev {
+  display: block;
+  background-color: rgb(8, 8, 145);
+  margin-bottom: 32px;
+  border-color: blueviolet;
+  border-width: 6px;
+  border-style: solid;
+  border-radius: 8px;
+  padding: 0px;
+}
+
+.vid {
+  display: block;
+  margin: 10px auto; 
+  width: 90%; 
+}
+
+.div {  
+  display: block;
+  background-color: rgb(8, 8, 145);
+  margin-top: 13px;
+  margin: 0px;
+  border-style: solid;
+  border-color: blueviolet;
+  border-width: 6px;
+  margin: auto;
+  border-radius: 15px;
+  
+}
+.div2 {  
+  display: block;
+  background-color: rgb(8, 8, 145);
+  margin: 0; 
+  margin-top: 15px;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: blueviolet;
+  border-width: 6px;
+  border-radius: 15px;
+  border-top-width:8px ;
+
+}
+.note { 
+  font-size: 30px;
+  color: rgb(203, 0, 0);
+  display:block;
+  background-color: rgb(8, 8, 145);
+  margin-bottom: 12px;
+  border-color: blueviolet;
+  border-width: 6px;
+  border-style: solid;
+  border-radius: 8px;
+  padding: 5px;
+  text-align: center;
+}
